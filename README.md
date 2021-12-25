@@ -3,6 +3,10 @@ https://secure.meetup.com/meetup_api/console/?path=/find/upcoming_events
 
 https://api.meetup.com/find/upcoming_events
 
+### 例
+https://api.meetup.com/find/upcoming_events?lon=139.839478&end_date_range=2021-12-27T23:59:59&excluded_groups=33806081&page=20&radius=100&lat=35.652832
+
+
 (COMMAND + SHIFT + V to preview markdown file)
 
 # Meetup ツー v0.1
